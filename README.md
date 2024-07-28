@@ -59,4 +59,3 @@ The goal of this project is to predict future sales using a linear regression mo
 ```
 
 --------
-
